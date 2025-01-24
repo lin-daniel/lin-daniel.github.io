@@ -9,7 +9,7 @@ entries:
         entries:
           - title: 2024 - City of Cupertino | Sustainability Fellow
           - title: 2022 - Apple Inc. | User Studies Facilitator
-          - title: 2021 - The Art of Water | Co-founder
+          - title: 2021 - The Art of Water | Co-Founder
       - title: Education
         entries:
           - title: 2022 - University of Washington | B.S. in Informatics
@@ -18,10 +18,10 @@ entries:
           - title: Data Analysis - Excel, Python, SQL
           - title: Interface Design - Figma, HTML/CSS, React
 
-  # - title: Projects
-  #   entries:
-  #     - title: The Art of Water - An online museum for water themed art
-  #       url: https://www.theartofwater.global
+  - title: Projects
+    entries:
+      - title: Portfolio
+        url: https://daniellinportfolio.webflow.io/
 
   - title: Contact Me
     entries:
