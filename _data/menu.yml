@@ -2,36 +2,60 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Summary
     entries:
-      - title: Data Analyst, UX Designer
-      - title: github repo
+      - title: Data Analyst in climate tech with experience in Fortune 500, local government, and nonprofit organizations. Passionate about leveraging data analytics and software to improve livability for everyday Americans.
+      - title: Experience
+        entries:
+          - title: 2024 - City of Cupertino | Sustainability Fellow
+          - title: 2022 - Apple Inc. | User Studies Facilitator
+          - title: 2021 - The Art of Water | Co-founder
+      - title: Education
+        entries:
+          - title: 2022 - University of Washington | B.S. in Informatics
+      - title: Skills
+        entries:
+          - title: Data Analysis - Excel, Python, SQL
+          - title: Interface Design - Figma, HTML/CSS, React
+
+  # - title: Projects
+  #   entries:
+  #     - title: The Art of Water - An online museum for water themed art
+  #       url: https://www.theartofwater.global
+
+  - title: Contact Me
+    entries:
+      - title: Email
+        url: daniellin256@gmail.com
+      - title: LinkedIn
+        url: https://www.linkedin.com/in/daniel-lin-kedin/
+      - title: Github
         url: https://github.com/lin-daniel
       
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+  # - title: all posts
+  #   post_list:
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See archive...
+  #     show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+  # - title: posts by category
+  #   post_list:
+  #     category: example2
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
 
-  - title: rss
-    url: feed.xml
+  # - title: rss
+  #   url: feed.xml
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+  # - title: another list
+  #   entries:
+  #     - title: with subitems
+  #       entries:
+  #         - title: with subsubitems
+  #         - title: example page
+  #           url: about
+  # - title: PRO TIP
+  #   entries:
+  #     - title: to edit this menu, edit _data/menu.yml file
