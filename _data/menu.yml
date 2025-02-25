@@ -8,14 +8,14 @@ entries:
       - title: Experience
         entries:
           - title: 2024 - City of Cupertino | Sustainability Fellow
-          - title: 2022 - Apple Inc. | User Studies Facilitator
-          - title: 2021 - The Art of Water | Co-Founder
+          - title: 2022 - Apple Inc. | Data Collection Facilitator
+          - title: 2021 - The Art of Water | Co-founder
       - title: Education
         entries:
           - title: 2022 - University of Washington | B.S. in Informatics
       - title: Skills
         entries:
-          - title: Data Analysis - Excel, Python, SQL
+          - title: Data Analytics - Excel, Python, SQL
           - title: Interface Design - Figma, HTML/CSS, React
 
   - title: Projects
