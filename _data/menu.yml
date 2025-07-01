@@ -4,7 +4,7 @@
 entries:
   - title: Summary
     entries:
-      - title: Data Analyst in climate tech with experience in Fortune 500, local government, and nonprofit organizations. Passionate about leveraging data analytics and software to improve livability for everyday Americans.
+      - title: Data analyst in clean energy with experience in Fortune 500, local government, and nonprofit groups. Passionate about leveraging data analytics and software to deliver services to everyday Americans. Generating customer-driven insights in big data using AI data platforms, SQL, Excel, and Python.
       - title: Experience
         entries:
           - title: 2025 - Peninsula Clean Energy | Account Services Data Analyst
@@ -16,7 +16,7 @@ entries:
           - title: 2022 - University of Washington | B.S. in Informatics
       - title: Skills
         entries:
-          - title: Data Analytics - Python, Excel, SQL
+          - title: Data Analytics - SQL, Excel, Python
           - title: Interface Design - Figma, HTML/CSS, React
 
   - title: Projects
