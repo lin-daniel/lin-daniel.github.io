@@ -5,6 +5,10 @@ entries:
   - title: Summary
     entries:
       - title: Mission-driven data analyst experienced in leveraging data pipelines in Fortune 500, local government, and nonprofit organizations. Proficient in developing accurate, reliable dashboards to benchmark and forecast KPIs, specializing in extracting customer behavior from big data using Google Cloud, SQL, Excel, and Python.
+  - title: Skills
+    entries:
+      - title: Data Analytics - SQL, Excel, Python, Looker Studio, BigQuery
+      - title: User-Centered Design - Figma, HTML/CSS, React
   - title: Experience
     entries:
       - title: 2025 - Peninsula Clean Energy | Account Services Data Analyst
@@ -13,16 +17,10 @@ entries:
   - title: Education
     entries:
       - title: 2022 - University of Washington | B.S. in Informatics
-  - title: Skills
-    entries:
-      - title: Data Analytics - SQL, Excel, Python
-      - title: Interface Design - Figma, HTML/CSS, React
-
   - title: Projects
     entries:
       - title: Portfolio
         url: https://daniellinportfolio.webflow.io/
-
   - title: Contact Me
     entries:
       - title: Email
