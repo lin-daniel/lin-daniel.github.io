@@ -17,10 +17,8 @@ entries:
   - title: Education
     entries:
       - title: 2022 - University of Washington | B.S. in Informatics
-  - title: Projects
-    entries:
-      - title: Portfolio
-        url: https://daniellinportfolio.webflow.io/
+  - title: Design Projects
+    url: https://daniellinportfolio.webflow.io/
   - title: Contact Me
     entries:
       - title: Email
